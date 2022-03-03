@@ -1,0 +1,17 @@
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\Scheduling_Algorithm.exe
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\Scheduling_Algorithm.deps.json
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\Scheduling_Algorithm.runtimeconfig.json
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\Scheduling_Algorithm.dll
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\ref\Scheduling_Algorithm.dll
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\Scheduling_Algorithm.pdb
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.csproj.AssemblyReference.cache
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.AssemblyInfoInputs.cache
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.AssemblyInfo.cs
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.csproj.CoreCompileInputs.cache
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.csproj.CopyComplete
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.dll
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\ref\Scheduling_Algorithm.dll
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.pdb
+C:\School\Learning Projects\Scheduling_Algorithm\Scheduling_Algorithm\obj\Debug\net6.0\Scheduling_Algorithm.genruntimeconfig.cache

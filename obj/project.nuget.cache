@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrGBk6IK4WvWvKbVP+SED79qMxvq9A6ajN64WrDRl5rI37NVv80eD+5EcqBGoT8PEQPJr6AhkQmYkB0odIYdPw==",
+  "success": true,
+  "projectFilePath": "C:\\School\\Learning Projects\\Scheduling_Algorithm\\Scheduling_Algorithm\\Scheduling_Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denma\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
